@@ -879,7 +879,7 @@ $(function () {
     var OriginTitile = document.title,
         st;
     document.addEventListener("visibilitychange", function () {
-        document.hidden ? (document.title = "星星之火", clearTimeout(st)) : (document.title ="足以燎原", st = setTimeout(function () {
+        document.hidden ? (document.title = "足以燎原", clearTimeout(st)) : (document.title ="星星之火", st = setTimeout(function () {
                 document.title = OriginTitile
             }, 3e3))
     })
