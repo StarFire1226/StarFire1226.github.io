@@ -1220,6 +1220,17 @@ $(function () {
     
 
     
+    
+    <script type="text/javascript">
+    var OriginTitile = document.title,
+        st;
+    document.addEventListener("visibilitychange", function () {
+        document.hidden ? (document.title = "starfire", clearTimeout(st)) : (document.title ="starfires", st = setTimeout(function () {
+                document.title = OriginTitile
+            }, 3e3))
+    })
+    </script>
+
 
     
 
