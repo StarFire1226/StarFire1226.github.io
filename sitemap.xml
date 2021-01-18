@@ -2,21 +2,56 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://example.com/2021/01/08/%E7%BD%91%E7%AB%99%E8%AF%B4%E6%98%8E/</loc>
+    <loc>http://starfire1226.top/2021/01/08/wang-zhan-shuo-ming/</loc>
     
-    <lastmod>2021-01-17</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://example.com/2021/01/11/article-title/</loc>
-    
-    <lastmod>2021-01-16</lastmod>
+    <lastmod>2021-01-18</lastmod>
     
   </url>
   
   <url>
-    <loc>http://example.com/404.html</loc>
+    <loc>http://starfire1226.top/404/index.html</loc>
+    
+    <lastmod>2021-01-18</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://starfire1226.top/friends/index.html</loc>
+    
+    <lastmod>2021-01-18</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://starfire1226.top/contact/index.html</loc>
+    
+    <lastmod>2021-01-18</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://starfire1226.top/about/index.html</loc>
+    
+    <lastmod>2021-01-18</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://starfire1226.top/tags/index.html</loc>
+    
+    <lastmod>2021-01-18</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://starfire1226.top/categories/index.html</loc>
+    
+    <lastmod>2021-01-18</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://starfire1226.top/2021/01/11/article-title/</loc>
     
     <lastmod>2021-01-16</lastmod>
     
@@ -24,7 +59,7 @@
   
 
   <url>
-    <loc>http://example.com/</loc>
+    <loc>http://starfire1226.top/</loc>
     <lastmod>2021-01-18</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>StarFire</title>
+  
+  <subtitle>星星之火</subtitle>
+  <link href="http://starfire1226.top/atom.xml" rel="self"/>
+  
+  <link href="http://starfire1226.top/"/>
+  <updated>2021-01-16T04:54:55.548Z</updated>
+  <id>http://starfire1226.top/</id>
+  
+  <author>
+    <name>StarFire</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>article title</title>
+    <link href="http://starfire1226.top/2021/01/11/article-title/"/>
+    <id>http://starfire1226.top/2021/01/11/article-title/</id>
+    <published>2021-01-11T01:59:14.000Z</published>
+    <updated>2021-01-16T04:54:55.548Z</updated>
+    
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>网站说明</title>
+    <link href="http://starfire1226.top/2021/01/08/wang-zhan-shuo-ming/"/>
+    <id>http://starfire1226.top/2021/01/08/wang-zhan-shuo-ming/</id>
+    <published>2021-01-08T02:08:55.324Z</published>
+    <updated>2021-01-18T08:43:24.885Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;创建网站的起因&quot;&gt;&lt;a href=&quot;#创建网站的起因&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
