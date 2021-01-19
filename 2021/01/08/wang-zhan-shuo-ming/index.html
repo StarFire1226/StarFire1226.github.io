@@ -315,6 +315,19 @@
 </header>
 
     
+<script src="/libs/cryptojs/crypto-js.min.js"></script>
+<script>
+    (function() {
+        let pwd = '';
+        if (pwd && pwd.length > 0) {
+            if (pwd !== CryptoJS.SHA256(prompt('请输入访问本文章的密码')).toString(CryptoJS.enc.Hex)) {
+                alert('密码错误，将返回主页！');
+                location.href = '/';
+            }
+        }
+    })();
+</script>
+
 
 
 
@@ -602,7 +615,7 @@
 <div id="article-share">
 
     
-    <div class="social-share" data-sites="twitter,facebook,google,qq,qzone,wechat,weibo,douban,linkedin" data-wechat-qrcode-helper="<p>微信扫一扫即可分享！</p>"></div>
+    <div class="social-share" data-sites="twitter,facebook,google,qq,qzone,wechat,weibo,douban,linkedin" data-wechat-qrcode-helper="<p>欢迎同志加入我们。</p>"></div>
     <script src="/libs/share/js/social-share.min.js"></script>
     
 
@@ -766,8 +779,7 @@
                 <a href="/2021/01/11/zhang-chun-qiao-jia-shu/">
                     <div class="card-image">
                         
-                        
-                        <img src="/medias/featureimages/3.jpg" class="responsive-img" alt="张春桥家书—节选">
+                        <img src="/medias/cover/zhangchunqiaojiashu.jpg" class="responsive-img" alt="张春桥家书—节选">
                         
                         <span class="card-title">张春桥家书—节选</span>
                     </div>
