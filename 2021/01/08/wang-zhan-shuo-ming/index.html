@@ -255,9 +255,9 @@
 <script src="/libs/cryptojs/crypto-js.min.js"></script>
 <script>
     (function() {
-        let pwd = 'starfire';
+        let pwd = '907488e8fe0306f3d73f8de6de7c28284c8770269fce2a1f54cedba72b61047d';
         if (pwd && pwd.length > 0) {
-            if (pwd !== CryptoJS.SHA256(prompt('请输入访问本文章的密码')).toString(CryptoJS.enc.Hex)) {
+            if (pwd !== CryptoJS.SHA256(prompt('该文章正在维新,需输入权限密码查看!')).toString(CryptoJS.enc.Hex)) {
                 alert('密码错误，将返回主页！');
                 location.href = '/';
             }
