@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://starfire1226.top/xi-xing-man-ji.html</loc>
+    
+    <lastmod>2021-03-15</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://starfire1226.top/shu-ji-qing-dan.html</loc>
     
     <lastmod>2021-03-15</lastmod>
@@ -241,6 +248,20 @@
     <priority>0.6</priority>
   </url>
   
+  <url>
+    <loc>https://starfire1226.top/tags/%E4%B9%A6%E7%B1%8D/</loc>
+    <lastmod>2021-03-15</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://starfire1226.top/tags/%E5%85%9A%E5%8F%B2/</loc>
+    <lastmod>2021-03-15</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
 
   
   <url>
@@ -280,6 +301,13 @@
   
   <url>
     <loc>https://starfire1226.top/categories/%E5%BC%A0%E6%98%A5%E6%A1%A5/</loc>
+    <lastmod>2021-03-15</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://starfire1226.top/categories/%E9%9D%A9%E5%91%BD/</loc>
     <lastmod>2021-03-15</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
