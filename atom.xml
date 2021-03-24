@@ -6,7 +6,7 @@
   <link href="https://starfire1226.top/atom.xml" rel="self"/>
   
   <link href="https://starfire1226.top/"/>
-  <updated>2021-03-23T08:43:34.298Z</updated>
+  <updated>2021-03-21T09:56:16.889Z</updated>
   <id>https://starfire1226.top/</id>
   
   <author>
@@ -15,27 +15,6 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title>哲学小词典</title>
-    <link href="https://starfire1226.top/zhe-xue-xiao-ci-dian.html"/>
-    <id>https://starfire1226.top/zhe-xue-xiao-ci-dian.html</id>
-    <published>2021-03-23T08:34:37.000Z</published>
-    <updated>2021-03-23T08:43:34.298Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;h1 id=&quot;哲学小词典（辩证唯物和历史唯物）&quot;&gt;&lt;a href=&quot;#哲学小词典（辩证唯物和历史唯物）&quot; class=&quot;headerlink&quot;</summary>
-        
-      
-    
-    
-    
-    
-  </entry>
   
   <entry>
     <title>西行漫记</title>
@@ -69,7 +48,7 @@
     <link href="https://starfire1226.top/shu-ji-qing-dan.html"/>
     <id>https://starfire1226.top/shu-ji-qing-dan.html</id>
     <published>2021-02-27T11:51:28.000Z</published>
-    <updated>2021-03-15T02:04:10.051Z</updated>
+    <updated>2021-03-24T01:05:16.349Z</updated>
     
     
       
@@ -82,7 +61,7 @@
     
     
     
-    <category term="书籍" scheme="https://starfire1226.top/categories/%E4%B9%A6%E7%B1%8D/"/>
+    <category term="推荐读物" scheme="https://starfire1226.top/categories/%E6%8E%A8%E8%8D%90%E8%AF%BB%E7%89%A9/"/>
     
     
     <category term="书籍清单" scheme="https://starfire1226.top/tags/%E4%B9%A6%E7%B1%8D%E6%B8%85%E5%8D%95/"/>
@@ -210,7 +189,7 @@
     <link href="https://starfire1226.top/zhong-guo-si-you-hua-da-ni-zhuan-xia.html"/>
     <id>https://starfire1226.top/zhong-guo-si-you-hua-da-ni-zhuan-xia.html</id>
     <published>2021-01-28T03:12:06.000Z</published>
-    <updated>2021-01-28T05:53:43.242Z</updated>
+    <updated>2021-03-24T01:04:10.942Z</updated>
     
     
       
@@ -223,7 +202,7 @@
     
     
     
-    <category term="土地私有化" scheme="https://starfire1226.top/categories/%E5%9C%9F%E5%9C%B0%E7%A7%81%E6%9C%89%E5%8C%96/"/>
+    <category term="私有化" scheme="https://starfire1226.top/categories/%E7%A7%81%E6%9C%89%E5%8C%96/"/>
     
     
     <category term="私有化" scheme="https://starfire1226.top/tags/%E7%A7%81%E6%9C%89%E5%8C%96/"/>
@@ -237,7 +216,7 @@
     <link href="https://starfire1226.top/zhong-guo-si-you-hua-da-ni-zhuan-shang.html"/>
     <id>https://starfire1226.top/zhong-guo-si-you-hua-da-ni-zhuan-shang.html</id>
     <published>2021-01-26T01:35:17.000Z</published>
-    <updated>2021-01-28T03:14:47.019Z</updated>
+    <updated>2021-03-24T01:04:18.795Z</updated>
     
     
       
@@ -250,7 +229,7 @@
     
     
     
-    <category term="土地私有化" scheme="https://starfire1226.top/categories/%E5%9C%9F%E5%9C%B0%E7%A7%81%E6%9C%89%E5%8C%96/"/>
+    <category term="私有化" scheme="https://starfire1226.top/categories/%E7%A7%81%E6%9C%89%E5%8C%96/"/>
     
     
     <category term="私有化" scheme="https://starfire1226.top/tags/%E7%A7%81%E6%9C%89%E5%8C%96/"/>
@@ -320,7 +299,7 @@
     <link href="https://starfire1226.top/zhang-chun-qiao-jia-shu.html"/>
     <id>https://starfire1226.top/zhang-chun-qiao-jia-shu.html</id>
     <published>2021-01-11T01:59:14.000Z</published>
-    <updated>2021-02-05T08:20:49.371Z</updated>
+    <updated>2021-03-24T01:02:54.202Z</updated>
     
     
       
@@ -333,7 +312,7 @@
     
     
     
-    <category term="张春桥" scheme="https://starfire1226.top/categories/%E5%BC%A0%E6%98%A5%E6%A1%A5/"/>
+    <category term="革命" scheme="https://starfire1226.top/categories/%E9%9D%A9%E5%91%BD/"/>
     
     
     <category term="意识形态" scheme="https://starfire1226.top/tags/%E6%84%8F%E8%AF%86%E5%BD%A2%E6%80%81/"/>
@@ -347,7 +326,7 @@
     <link href="https://starfire1226.top/wang-zhan-shuo-ming.html"/>
     <id>https://starfire1226.top/wang-zhan-shuo-ming.html</id>
     <published>2021-01-08T02:08:55.324Z</published>
-    <updated>2021-02-05T08:22:13.183Z</updated>
+    <updated>2021-03-24T01:04:49.351Z</updated>
     
     
       
@@ -359,6 +338,8 @@
       
     
     
+    
+    <category term="使用手册" scheme="https://starfire1226.top/categories/%E4%BD%BF%E7%94%A8%E6%89%8B%E5%86%8C/"/>
     
     
     <category term="网站目的" scheme="https://starfire1226.top/tags/%E7%BD%91%E7%AB%99%E7%9B%AE%E7%9A%84/"/>
